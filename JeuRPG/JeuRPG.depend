@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1583608242 source:c:\users\migue\desktop\projet c\jeurpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1583607928 c:\users\migue\desktop\projet c\jeurpg\structure.h
+
+1583607985 c:\users\migue\desktop\projet c\jeurpg\fonction.h
+
+1583888253 source:c:\users\killi\onedrive\bureau\projet c\jeurpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1583888210 c:\users\killi\onedrive\bureau\projet c\jeurpg\structure.h
+
+1583888270 c:\users\killi\onedrive\bureau\projet c\jeurpg\fonction.h
+
+1583891290 source:c:\users\killi\onedrive\bureau\jeurpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1583888212 c:\users\killi\onedrive\bureau\jeurpg\structure.h
+
+1583888272 c:\users\killi\onedrive\bureau\jeurpg\fonction.h
+
